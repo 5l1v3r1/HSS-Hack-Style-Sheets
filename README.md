@@ -1,4 +1,4 @@
-# HSS-Hack-Style-Sheets
+# HSS - Hack Style Sheets
 HSS - Hack Style Sheets by k4mpr3t
 
 How to use ?
