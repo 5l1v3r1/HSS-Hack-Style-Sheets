@@ -26,4 +26,4 @@ Patch Code :
 ```
 Collections : 
 
-Script Defaced 01 => https://github.com/k4mpr3t/HSS-Hack-Style-Sheets/blob/master/defaced-01.html
+Script Defaced 01 => https://k4mpr3t.github.io/HSS-Hack-Style-Sheets/defaced-01.html
