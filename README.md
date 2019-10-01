@@ -17,6 +17,8 @@ How to use ?
 </div>
 ```
 
+![alt text](https://raw.githubusercontent.com/k4mpr3t/HSS-Hack-Style-Sheets/master/defaced-01.png "SCRIPT DEFACED 01")
+
 Patch Code :
 
 ```javascript
