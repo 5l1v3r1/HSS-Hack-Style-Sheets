@@ -66,11 +66,11 @@ by k4mpr3t
 
 ```javascript
 <div class="center">
-   <img class="wh200 m30" src="https://pngimg.com/uploads/hacker/hacker_PNG24.png" />
-   <h1 class="bblack cred p10 font1">HACKED BY YOU</h1>
+   <img class="wh200" src="https://pngimg.com/uploads/hacker/hacker_PNG24.png" />
+   <h1 class="bblack cred p10 font7">HACKED BY YOU</h1>
    <div class="bblack m10 mnleft mnright">
       <marquee class="w60p p10">
-        <span class="cwhite font2">THANKS TO DOG ☠️ LAPTOP ☠️ YOU ☠️ PRESENTS FOR MILLENIALS</span>
+        <span class="cwhite font-lucida">THANKS TO DOG ☠️ LAPTOP ☠️ YOU ☠️ PRESENTS FOR MILLENIALS</span>
       </marquee>
    </div>
 </div>
