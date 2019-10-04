@@ -88,5 +88,7 @@ by k4mpr3t
 ### 📖 Defaced Collections : ### 
 
 Script Defaced 01 => https://k4mpr3t.github.io/HSS-Hack-Style-Sheets/defaced-01.html
+
 Script Defaced 02 => https://k4mpr3t.github.io/HSS-Hack-Style-Sheets/defaced-02.html
+
 Script Defaced 03 => https://k4mpr3t.github.io/HSS-Hack-Style-Sheets/defaced-03.html
